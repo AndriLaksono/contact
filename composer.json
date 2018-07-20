@@ -15,5 +15,5 @@
         "psr-4": {
             "AndriLaksono\\Contact\\": "src/"
         }
-    },
+    }
 }
