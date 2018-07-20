@@ -1,0 +1,19 @@
+{
+    "name": "andrilaksono/contact",
+    "description": "Testing penggunaan library laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andri Laksono",
+            "email": "andrilaksono222@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "AndriLaksono\\Contact\\": "src/"
+        }
+    },
+}
