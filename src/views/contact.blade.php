@@ -5,7 +5,7 @@
         <title>Contact US</title>
     </head>
     <body>
-        <h1>Halaman contact</h1>
+        <h1>Halaman contact testing</h1>
 
         <form action="{{ url('contact') }}" method="post">
             <input type="text" name="name" placeholder="Name"><br>
