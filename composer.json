@@ -14,5 +14,10 @@
             "AndriLaksono\\Contact\\": "src/"
         }
     },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.0.4-dev"
+        }
+    },
     "minimum-stability": "dev"
 }
